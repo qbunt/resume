@@ -1,6 +1,30 @@
+<style media="screen">
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+  img {
+      float: left;
+      height: 30px;
+      width: 30px;
+  }
+  .address {
+      float: right;
+      text-align: center;
+  }
+</style>
+<div class="container">
+    <div class="logo">
 
-###  Jeremy R Bunting
-203 Savona Walk #204 <br/>Long Beach, CA 90803
+      <div class="address">
+          <img src="logo.svg" alt="" />
+          <h3>Jeremy R Bunting</h3>
+          <p>203 Savona Walk #204<br> Long Beach, CA 90803</p>
+          <p>203.804.1060 • hello@jeremybunting.com</p>
+          <a href="http://github.com/qbunt">Github</a> • <a href="https://www.linkedin.com/in/jeremybunting">LinkedIn</a> • <a href="http://work.jeremybunting.com">Portfolio</a>
+      </div>
+    </div>
+</div>
 
 ### About
 I have a passion for innovation and challenging projects.  My background in industrial design gives me a rare insight into how people use things in their daily lives.  Whether it means sketching out a solution to a complex problem, or offering unique perspective on user experience, I can offer something different to your digital experiences. My name is Jeremy Bunting, and I’m eager to work with you to make your projects shine.
@@ -46,3 +70,15 @@ Wentworth Institute of Technology, Boston, MA - Bachelor of Science Degree in In
 
 ### Skills
 Extensive experience with OOP, HTML, Javascript, CSS3, pre-processors, animation, Greensock, jQuery, Backbone, Angular, React, Gulp, design patterns, social APIs, Graph API, Heroku, Git, SVN, LAMP stack, NGinX, OS X, Linux/Unix, Ansible, Adobe Creative Suite. Working knowledge of Node.js, MongoDB, Redis, Express, Docker, Python and Java. Strong research, sketching, conceptual, presentation and communication skills.
+
+### Awards & Press
+United States Design Patent Holder for US [D561526](https://www.google.co.ve/patents/USD561526), [D565890](https://www.google.co.ve/patents/USD565890), [D565346](https://www.google.co.ve/patents/USD565346) Calphalon Pro Signature Series Cookware 2006  
+Calphalon Student Design Competition 2005 & 2006 winner  
+IDSA Newsletter Design Perspectives Fall 2005  
+Wentworth President’s Award for Academic Excllence and Co-Curricular Involvement 2006  
+Connecticut Art Directors Club CADC Silver for millenniumtowersf.com 2008  
+Connecticut Art Directors Club CADC Excellence Award for slamcoll.com, zandarthegreat.com, 38studios.com 2008
+CiscoGSX 2009, Grand Ex Award 2009, build participant  
+Sprite SlamDunk for nba.com, FWA Site Of The Day 2009, build participant  
+smiledrive.vw.com FWA Mobile Site Of The Day 2013, lead developer  
+VW.com, FWA Site Of The Day 2014, lead build participant  
