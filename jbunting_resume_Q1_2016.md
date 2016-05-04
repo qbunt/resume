@@ -16,7 +16,7 @@
     <div class="address">
       <img src="https://raw.githubusercontent.com/qbunt/resume/master/logo.svg" alt="" />
       <h3>Jeremy R Bunting</h3>
-      <p>203 Savona Walk #204<br> Long Beach, CA 90803</p>
+      <p>203 Savona Walk #204, Long Beach, CA 90803</p>
       <p>203.804.1060 &bull; hello@jeremybunting.com</p>
       <a href="http://github.com/qbunt">Github</a> &bull; <a href="https://www.linkedin.com/in/jeremybunting">LinkedIn</a> &bull; <a href="http://work.jeremybunting.com">Portfolio</a>
     </div>
