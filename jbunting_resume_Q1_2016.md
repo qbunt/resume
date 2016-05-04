@@ -13,9 +13,8 @@
   }
 </style>
 <div class="container">
-    <div class="https://raw.githubusercontent.com/qbunt/resume/master/logo.svg"></div>
     <div class="address">
-      <img src="logo.svg" alt="" />
+      <img src="https://raw.githubusercontent.com/qbunt/resume/master/logo.svg" alt="" />
       <h3>Jeremy R Bunting</h3>
       <p>203 Savona Walk #204<br> Long Beach, CA 90803</p>
       <p>203.804.1060 &bull; hello@jeremybunting.com</p>
