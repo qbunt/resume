@@ -57,7 +57,6 @@ Wentworth Institute of Technology, Boston, MA - Bachelor of Science Degree in In
 **Industrial Design Co op, Calphalon Cookware Inc.; Toledo, Ohio &bull; 2006**
 * Researched, designed, developed, prototyped and patented the Calphalon Pro Signature line for Kohl's
 * Developed and proposed new product design concepts through sketching, rendering, modelmaking, and prototyping
-* Presented new product concept designs to marketing, R&D and management
 * Operated rapid prototyping lab & equipment
 
 **Industrial Design Co op, Proteus Design Inc.; Boston, MA &bull; 2005**
