@@ -75,6 +75,6 @@ Wentworth President's Award for Academic Excellence and Co-Curricular Involvemen
 Connecticut Art Directors Club CADC Silver for millenniumtowersf.com 2008  
 Connecticut Art Directors Club CADC Excellence Award for slamcoll.com, zandarthegreat.com, 38studios.com 2008   
 CiscoGSX 2009, Grand Ex Award 2009, build participant  
-Sprite SlamDunk for nba.com, FWA Site Of The Day 2009, build participant 
+Sprite SlamDunk for nba.com, FWA Site Of The Day 2009, build participant   
 smiledrive.vw.com FWA Mobile Site Of The Day 2013, lead developer  
 VW.com, FWA Site Of The Day 2014, lead build participant  
