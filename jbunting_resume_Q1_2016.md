@@ -34,7 +34,7 @@ Wentworth Institute of Technology, Boston, MA - Bachelor of Science Degree in In
 * Provisioned and monitored Linux environments via Ansible & Docker
 * Defined and wrote technical specifications for agency clients
 * Developed applications with Backbone, Angular, Greensock, Laravel, Python
-* Implemented CI/CD workflow & toolset for campaign related projects
+* Implemented CI]]]]]/CD workflow & toolset for campaign related projects
 * Partnered with Target, Volkswagen, Esurance, Real California Milk and Pizza Hut
 
 **Sr. Interactive Developer, HYFN.; Hermosa Beach, California &bull; Nov. 2010 - Oct. 2012**
@@ -57,7 +57,7 @@ Wentworth Institute of Technology, Boston, MA - Bachelor of Science Degree in In
 **Industrial Design Co op, Calphalon Cookware Inc.; Toledo, Ohio &bull; 2006**
 * Researched, designed, developed, prototyped and patented the Calphalon Pro Signature line for Kohl's
 * Developed and proposed new product design concepts through sketching, rendering, modelmaking, and prototyping
-* Operated rapid prototyping lab & equipment
+* Operated rapid prototyping 3D printers, CNC machines and shop tools
 
 **Industrial Design Co op, Proteus Design Inc.; Boston, MA &bull; 2005**
 * Practiced all stages of the consumer product development process
