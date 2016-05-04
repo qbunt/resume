@@ -69,12 +69,12 @@ Extensive experience with OOP, HTML, Javascript, CSS3, pre-processors, animation
 
 ### Awards & Press
 United States Design Patent Holder for US [D561526](https://www.google.co.ve/patents/USD561526), [D565890](https://www.google.co.ve/patents/USD565890), [D565346](https://www.google.co.ve/patents/USD565346) Calphalon Pro Signature Series Cookware 2006
-Calphalon Student Design Competition 2005 & 2006 winner
-IDSA Newsletter Design Perspectives Fall 2005
-Wentworth President's Award for Academic Excellence and Co-Curricular Involvement 2006
-Connecticut Art Directors Club CADC Silver for millenniumtowersf.com 2008
+Calphalon Student Design Competition 2005 & 2006 winner  
+IDSA Newsletter Design Perspectives Fall 2005  
+Wentworth President's Award for Academic Excellence and Co-Curricular Involvement 2006 
+Connecticut Art Directors Club CADC Silver for millenniumtowersf.com 2008 
 Connecticut Art Directors Club CADC Excellence Award for slamcoll.com, zandarthegreat.com, 38studios.com 2008
-CiscoGSX 2009, Grand Ex Award 2009, build participant
-Sprite SlamDunk for nba.com, FWA Site Of The Day 2009, build participant
+CiscoGSX 2009, Grand Ex Award 2009, build participant 
+Sprite SlamDunk for nba.com, FWA Site Of The Day 2009, build participant 
 smiledrive.vw.com FWA Mobile Site Of The Day 2013, lead developer
 VW.com, FWA Site Of The Day 2014, lead build participant
