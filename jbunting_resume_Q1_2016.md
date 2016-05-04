@@ -13,7 +13,7 @@
   }
 </style>
 <div class="container">
-    <div class="logo.svg"></div>
+    <div class="https://raw.githubusercontent.com/qbunt/resume/master/logo.svg"></div>
     <div class="address">
       <img src="logo.svg" alt="" />
       <h3>Jeremy R Bunting</h3>
