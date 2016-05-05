@@ -34,7 +34,7 @@ Wentworth Institute of Technology, Boston, MA - Bachelor of Science Degree in In
 * Provisioned and monitored Linux environments via Ansible & Docker
 * Defined and wrote technical specifications for agency clients
 * Developed applications with Backbone, Angular, Greensock, Laravel, Python
-* Implemented CI]]]]]/CD workflow & toolset for campaign related projects
+* Implemented CI/CD workflow & toolset for campaign related projects
 * Partnered with Target, Volkswagen, Esurance, Real California Milk and Pizza Hut
 
 **Sr. Interactive Developer, HYFN.; Hermosa Beach, California &bull; Nov. 2010 - Oct. 2012**
@@ -76,4 +76,7 @@ Connecticut Art Directors Club CADC Excellence Award for slamcoll.com, zandarthe
 CiscoGSX 2009, Grand Ex Award 2009, build participant  
 Sprite SlamDunk for nba.com, FWA Site Of The Day 2009, build participant   
 smiledrive.vw.com FWA Mobile Site Of The Day 2013, lead developer  
-VW.com, FWA Site Of The Day 2014, lead build participant  
+VW.com, FWA Site Of The Day 2014, lead build participant 
+VW Unleash Your Rrr, Webby Award, Best Use of Online Media 2016 
+VW Unleash Your Rrr, Silver, International Andy Awards 2016
+[VW Unleash Your Rrr, Cutting Edge Project of the Week, 9/21/15](http://www.thefwa.com/adobe/tcea/unleash-your-rrrr)
