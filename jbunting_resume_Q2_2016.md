@@ -1,6 +1,6 @@
 <img src='jbunting_logotype.png' alt="Jeremy Bunting" height='50'>
 
-203 Savona Walk #204, Long Beach, CA 90803
+203 Savona Walk #204, Long Beach, CA 90803   
 203.804.1060 &bull; hello@jeremybunting.com
 
 ------
