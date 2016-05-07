@@ -1,9 +1,7 @@
 <img src='jbunting_logotype.png' alt="Jeremy Bunting" height='50'>
 
 203 Savona Walk #204, Long Beach, CA 90803   
-203.804.1060 &bull; hello@jeremybunting.com
-
-------
+203.804.1060 &bull; hello@jeremybunting.com   
 
 ### About
 I have a passion for innovation and challenging projects.  My background in industrial design gives me a rare insight into how people use things in their daily lives.  Whether it means sketching out a solution to a complex problem, or offering unique perspective on user experience, I can offer something different to your digital experiences. My name is Jeremy Bunting, and I'm eager to work with you to make your projects shine.
