@@ -1,5 +1,5 @@
-### Jeremy R Bunting
-<img src="https://raw.githubusercontent.com/qbunt/resume/master/logo.svg" alt="" />
+![](jbunting_logotype.png "Logo Title Text 1")
+
 203 Savona Walk #204, Long Beach, CA 90803
 203.804.1060 &bull; hello@jeremybunting.com
 
