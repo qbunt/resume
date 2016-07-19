@@ -10,7 +10,15 @@ I have a passion for innovation and challenging projects.  My background in indu
 Wentworth Institute of Technology, Boston, MA - Bachelor of Science Degree in Industrial Design (BIND) 2006, Dean's List
 
 ### Experience
-**Associate Technology Director, Deutsch LA.; Los Angeles, California &bull; Nov. 2012 - Present**
+**Technical Director, Spinifex Group.; Los Angeles, California &bull; May 2016 - Present**
+* Led team of mobile, front-end and back-end developers across a variety of live event projects
+* Migrated team to new Electron based tablet application architecture
+* Hired employees, fostered growth and professional development across the development team
+* Worked closely with product management team to scope projects, timelines and budgets
+* Assisted with transition to AWS from disparate hosting and domain management tools
+* Grew dev-ops practice across company to formalize deployment to hundreds of standalone devices
+
+**Associate Technology Director, Deutsch LA.; Los Angeles, California &bull; Nov. 2012 - April 2016**
 * Led and mentored front-end and back-end development teams of up to 10 people
 * Provisioned, configured, automated deployments to Linux environments via Ansible & Docker
 * Defined and wrote technical specifications & estimated timelines for agency clients, internal projects, development tools
@@ -35,7 +43,6 @@ Wentworth Institute of Technology, Boston, MA - Bachelor of Science Degree in In
 * Developed animated data driven applications and websites for clients
 * Clients included Four Seasons Hotels, Goodwin Procter, Ronin Advertising, Prospect Denim and 38Studios
 
-
 **Industrial Design Co op, Calphalon Cookware Inc.; Toledo, Ohio &bull; 2006**
 * Researched, designed, developed, prototyped and patented the Calphalon Pro Signature line for Kohl's
 * Built and presented new product design concepts through sketching, rendering, modelmaking, and prototyping
@@ -46,4 +53,4 @@ Wentworth Institute of Technology, Boston, MA - Bachelor of Science Degree in In
 * Prototyped new products for Keurig Coffee, Stanley and Intermatic
 
 ### Skills
-Extensive experience with JavaScript, CSS, HTML, PHP, Sass/Less, GreenSock, jQuery, Backbone, Angular, Redux, Yeoman, Gulp, Webpack, AWS, design patterns, social APIs, NGinX, Git, SVN, LAMP/LEMP, MySQL, OS X, Linux/Unix, Bash/Zsh, Adobe Creative Suite, 3D Printing and machining. Strong working knowledge of network architecture, DevOps, Python, NoSQL, NodeJS. Strong research, sketching, conceptual, presentation, management and communication skills.
+Extensive experience with JavaScript, CSS, HTML, PHP, Sass/Less, GreenSock, jQuery, Backbone, Angular, Redux, Yeoman, Gulp, Webpack, Electron, AWS, design patterns, social APIs, NGinX, Git, SVN, LAMP/LEMP, MySQL, OS X, Linux/Unix, Bash/Zsh, Adobe Creative Suite, wood and metal fabrication, 3D Printing and machining. Strong working knowledge of network architecture, DevOps, Python, NoSQL, NodeJS. Strong research, sketching, conceptual, presentation, management and communication skills.
