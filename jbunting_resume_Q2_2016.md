@@ -16,7 +16,7 @@ Wentworth Institute of Technology, Boston, MA - Bachelor of Science Degree in In
 * Hired employees, fostered growth and professional development across the development team
 * Worked closely with product management team to scope projects, timelines and budgets
 * Assisted with transition to AWS from disparate hosting and domain management tools
-* Grew dev-ops practice across company to formalize deployment to hundreds of standalone devices
+* Promoted dev-ops best practices to formalize deployment to hundreds of standalone devices
 
 **Associate Technology Director, Deutsch LA.; Los Angeles, California &bull; Nov. 2012 - April 2016**
 * Led and mentored front-end and back-end development teams of up to 10 people
