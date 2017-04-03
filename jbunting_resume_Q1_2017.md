@@ -1,6 +1,6 @@
 <img src='https://raw.githubusercontent.com/qbunt/resume/master/jbunting_logotype.png' alt="Jeremy Bunting" height='50'>
 
-203 Savona Walk #204, Long Beach, CA 90803   
+2044 National Ave., Costa Mesa, CA 92627   
 203.804.1060 &bull; hello@jeremybunting.com   
 
 ### About
@@ -10,21 +10,20 @@ I have a passion for innovation and challenging projects.  My background in indu
 Wentworth Institute of Technology, Boston, MA - Bachelor of Science Degree in Industrial Design (BIND) 2006, Dean's List
 
 ### Experience
-**Technical Director, Spinifex Group.; Los Angeles, California &bull; May 2016 - Present**
-* Led team of mobile, front-end and back-end developers across a variety of live event projects
-* Migrated team to new Electron based tablet application architecture
-* Hired employees, fostered growth and professional development across the development team
+**Technical Director, Spinifex Group.; Torrance, California &bull; May 2016 - Present**
+* Led team of mobile, front-end and back-end developers across development of live event projects
+* Promoted dev-ops best practices, assisted in migration to AWS, developed Linux services for LTE hardware
+* Migrated legacy apps to new Electron tablet application architecture
+* Developed internal tooling in Node, developed Node modules for Electron applications
 * Worked closely with product management team to scope projects, timelines and budgets
-* Assisted with transition to AWS from disparate hosting and domain management tools
-* Promoted dev-ops best practices to formalize deployment to hundreds of standalone devices
+* Clients included Lexus, Acura, Honda, Toyota, Mazda and Cisco
 
 **Associate Technology Director, Deutsch LA.; Los Angeles, California &bull; Nov. 2012 - April 2016**
 * Led and mentored front-end and back-end development teams of up to 10 people
 * Provisioned, configured, automated deployments to Linux environments via Ansible & Docker
-* Defined and wrote technical specifications & estimated timelines for agency clients, internal projects, development tools
-* Developed applications and tools with Backbone, Angular, Greensock, Laravel, Python, Nodejs
+* Defined and wrote technical specs & estimated timelines for agency clients and internal projects
 * Implemented CI/CD workflow & improved development toolset for campaign related projects
-* Clients included Target, Pizza Hut, Volkswagen, Esurance and Real California Milk
+* Clients included Target, Volkswagen, Pizza Hut, Esurance and Real California Milk
 
 **Sr. Interactive Developer, HYFN.; Hermosa Beach, California &bull; Nov. 2010 - Oct. 2012**
 * Developed branded web apps for music and movie industry clients
@@ -46,11 +45,10 @@ Wentworth Institute of Technology, Boston, MA - Bachelor of Science Degree in In
 **Industrial Design Co op, Calphalon Cookware Inc.; Toledo, Ohio &bull; 2006**
 * Researched, designed, developed, prototyped and patented the Calphalon Pro Signature line for Kohl's
 * Built and presented new product design concepts through sketching, rendering, modelmaking, and prototyping
-* Built solids models for rapid prototyping on 3D printers, CNC machines and shop tools
 
 **Industrial Design Co op, Proteus Design Inc.; Boston, MA &bull; 2005**
 * Practiced all stages of the consumer product development process, research, sketching, modelmaking and prototyping
 * Prototyped new products for Keurig Coffee, Stanley and Intermatic
 
 ### Skills
-Extensive experience with JavaScript, CSS, HTML, PHP, Sass/Less, GreenSock, jQuery, Backbone, Angular, Redux, Yeoman, Gulp, Webpack, Electron, AWS, design patterns, social APIs, NGinX, Git, SVN, LAMP/LEMP, MySQL, OS X, Linux/Unix, Bash/Zsh, Adobe Creative Suite, wood and metal fabrication, 3D Printing and machining. Strong working knowledge of network architecture, DevOps, Python, NoSQL, NodeJS. Strong research, sketching, conceptual, presentation, management and communication skills.
+Extensive experience with JavaScript, CSS, HTML, PHP, NodeJS, Sass, GreenSock, Backbone, Angular, React, Redux, Yeoman, Gulp, Webpack, Electron, AWS, design patterns, social APIs, NGinX, VCS/dVCS, LAMP/LEMP, MySQL, macOS, Linux/Unix, Shell, Adobe Creative Suite, wood and metal fabrication, 3D Printing and machining. Strong working knowledge of network architecture, Vue, Vuex, DevOps, Go, Python and NoSQL. Strong research, sketching, conceptual, presentation, management and communication skills.
