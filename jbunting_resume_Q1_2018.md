@@ -1,6 +1,6 @@
 <img src='https://raw.githubusercontent.com/qbunt/resume/master/jbunting_logotype.png' alt="Jeremy Bunting" height='50'>
 
-2044 National Ave., Costa Mesa, CA 92627   
+910 W 20th St., Costa Mesa, CA 92627   
 203.804.1060 &bull; hello@jeremybunting.com   
 
 ### About
@@ -10,13 +10,13 @@ I have a passion for innovation and challenging projects.  My background in indu
 Wentworth Institute of Technology, Boston, MA - Bachelor of Science Degree in Industrial Design (BIND) 2006, Dean's List
 
 ### Experience
-**Technical Director, Spinifex Group.; Torrance, California &bull; May 2016 - Present**
+**Technical Director, Spinifex Group.; Torrance, California &bull; May 2016 - Dec. 2017**
 * Led team of mobile, front-end and back-end developers across development of live event projects
 * Promoted dev-ops best practices, assisted in migration to AWS, developed Linux services for LTE hardware
 * Migrated legacy apps to new Electron tablet application architecture
 * Developed internal tooling in Node, developed Node modules for Electron applications
 * Worked closely with product management team to scope projects, timelines and budgets
-* Clients included Lexus, Acura, Honda, Toyota, Mazda and Cisco
+* Clients included Elton John, Lexus, Acura, Honda, Toyota, Mazda and Cisco
 
 **Associate Technology Director, Deutsch LA.; Los Angeles, California &bull; Nov. 2012 - April 2016**
 * Led and mentored front-end and back-end development teams of up to 10 people
@@ -51,4 +51,4 @@ Wentworth Institute of Technology, Boston, MA - Bachelor of Science Degree in In
 * Prototyped new products for Keurig Coffee, Stanley and Intermatic
 
 ### Skills
-Extensive experience with JavaScript, CSS, HTML, PHP, NodeJS, Sass, GreenSock, Backbone, Angular, React, Redux, Yeoman, Gulp, Webpack, Electron, AWS, design patterns, social APIs, NGinX, VCS/dVCS, LAMP/LEMP, MySQL, macOS, Linux/Unix, Shell, Adobe Creative Suite, wood and metal fabrication, 3D Printing and machining. Strong working knowledge of network architecture, Vue, Vuex, DevOps, Go, Python and NoSQL. Strong research, sketching, conceptual, presentation, management and communication skills.
+Extensive experience with JavaScript, CSS, HTML, PHP, Python, Node, Sass, GreenSock, D3, Angular, React, Vue, Gulp, Webpack, Electron, AWS, design patterns, APIs, NginX, dVCS, LAMP/LEMP, MySQL, macOS, Linux/Unix, Bash/Zsh, Adobe Creative Suite. Strong knowledge of network architecture, DevOps, Go, Python, monitoring and NoSQL. Strong research, sketching, conceptual, presentation, management and communication skills. Also skilled with wood and metal fabrication, 3D Printing, machining and solids modeling.
