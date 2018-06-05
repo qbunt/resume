@@ -10,13 +10,19 @@ I have a passion for innovation and challenging projects.  My background in indu
 Wentworth Institute of Technology, Boston, MA - Bachelor of Science Degree in Industrial Design (BIND) 2006, Dean's List
 
 ### Experience
+**Director of Web Development, Envoy.; Irvine, California &bull; Jan. 2018 - Present**
+* Led team of dev-ops, front-end and back-end engineers & contractors across multiple time zones
+* Conducted performance reviews, promotions, regular check-ins
+* Provided technical recommendations and architecture for client & internal projects
+* Worked with production and account teams to estimate development timelines, sprints and budgets
+* Clients included Vizio, McDonald's, Elo and Cylance
+
 **Technical Director, Spinifex Group.; Torrance, California &bull; May 2016 - Dec. 2017**
-* Led team of mobile, front-end and back-end developers across development of live event projects
-* Promoted dev-ops best practices, assisted in migration to AWS, developed Linux services for LTE hardware
-* Migrated legacy apps to new Electron tablet application architecture
-* Developed internal tooling in Node, developed Node modules for Electron applications
-* Worked closely with product management team to scope projects, timelines and budgets
-* Clients included Elton John, Lexus, Acura, Honda, Toyota, Mazda and Cisco
+* Led team of mobile, front-end and back-end engineers across multiple remote teams
+* Migrated legacy apps to new Electron application platform
+* Built internal tooling in Node & Go
+* Worked closely with production team to scope projects, timelines and budgets
+* Clients included Elton John, Lexus, Acura, Honda, Toyota, Mazda, Cisco and Salesforce
 
 **Associate Technology Director, Deutsch LA.; Los Angeles, California &bull; Nov. 2012 - April 2016**
 * Led and mentored front-end and back-end development teams of up to 10 people
@@ -28,7 +34,7 @@ Wentworth Institute of Technology, Boston, MA - Bachelor of Science Degree in In
 **Sr. Interactive Developer, HYFN.; Hermosa Beach, California &bull; Nov. 2010 - Oct. 2012**
 * Developed branded web apps for music and movie industry clients
 * Implemented loosely coupled application architecture to maximize logic re-use across clients with MVCS pattern
-* Built an embeddable video player for CBS complete with pre-roll and interstitial ad integration
+* Built an embeddable video player for CBS complete with full ad integration
 * Clients included Disney, Wendy’s, Nokia, Taylor Swift, VW, CBS, The Oscars, Avon, Adobe and Microsoft
 
 **Interactive Developer, JUXT Interactive.; Newport Beach, California &bull; Aug. 2008 - Oct. 2010**
@@ -51,4 +57,5 @@ Wentworth Institute of Technology, Boston, MA - Bachelor of Science Degree in In
 * Prototyped new products for Keurig Coffee, Stanley and Intermatic
 
 ### Skills
-Extensive experience with JavaScript, CSS, HTML, PHP, Python, Node, Sass, GreenSock, D3, Angular, React, Vue, Gulp, Webpack, Electron, AWS, design patterns, APIs, NginX, dVCS, LAMP/LEMP, MySQL, macOS, Linux/Unix, Bash/Zsh, Adobe Creative Suite. Strong knowledge of network architecture, DevOps, Go, Python, monitoring and NoSQL. Strong research, sketching, conceptual, presentation, management and communication skills. Also skilled with wood and metal fabrication, 3D Printing, machining and solids modeling.
+Extensive experience with JavaScript, CSS, HTML, PHP, Python, Node, Sass, GreenSock, D3, Angular, React, Vue, Gulp, Webpack, Electron, AWS, design patterns, APIs, Nginx, git, MySQL, macOS, Linux, Bash/Zsh, Adobe Creative Suite, Sketch, Figma. Strong knowledge of network architecture, DevOps, Go, Python, monitoring and NoSQL. Strong research, sketching, conceptual, presentation, management and communication skills. Also skilled with wood and metal fabrication, 3D Printing, machining and solids modeling.
+
